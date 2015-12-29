@@ -1,0 +1,1 @@
+include ':app', ':c3_3_01_contacts', ':c3_02_mycontentprovider'

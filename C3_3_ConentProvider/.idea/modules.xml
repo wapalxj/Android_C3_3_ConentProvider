@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/C3_3_ConentProvider2.iml" filepath="$PROJECT_DIR$/C3_3_ConentProvider2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_02_mycontentprovider/c3_02_mycontentprovider.iml" filepath="$PROJECT_DIR$/c3_02_mycontentprovider/c3_02_mycontentprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_3_01_contacts/c3_3_01_contacts.iml" filepath="$PROJECT_DIR$/c3_3_01_contacts/c3_3_01_contacts.iml" />
+    </modules>
+  </component>
+</project>
