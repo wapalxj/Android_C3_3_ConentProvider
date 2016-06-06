@@ -1,1 +1,1 @@
-include ':app', ':c3_01_contacts', ':c3_02_mycontentprovider', ':c4_hm_01_contentprovider', ':c4_hm_02_contentresolver', ':c4_hm_03_sms'
+include ':app', ':c3_01_contacts', ':c3_02_mycontentprovider', ':c4_hm_01_contentprovider', ':c4_hm_02_contentresolver', ':c4_hm_03_sms', ':c4_hm_04_phone_contacts', ':c4_hm_phone_contacts2'

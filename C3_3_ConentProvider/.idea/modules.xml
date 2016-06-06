@@ -4,11 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/C3_3_ConentProvider.iml" filepath="$PROJECT_DIR$/C3_3_ConentProvider.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/c3_01_contacts/c3_3_01_contacts.iml" filepath="$PROJECT_DIR$/c3_01_contacts/c3_3_01_contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c3_01_contacts/c3_01_contacts.iml" filepath="$PROJECT_DIR$/c3_01_contacts/c3_01_contacts.iml" />
       <module fileurl="file://$PROJECT_DIR$/c3_02_mycontentprovider/c3_02_mycontentprovider.iml" filepath="$PROJECT_DIR$/c3_02_mycontentprovider/c3_02_mycontentprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/c4_hm_01_contentprovider/c4_hm_01_contentprovider.iml" filepath="$PROJECT_DIR$/c4_hm_01_contentprovider/c4_hm_01_contentprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/c4_hm_02_contentresolver/c4_hm_02_contentresolver.iml" filepath="$PROJECT_DIR$/c4_hm_02_contentresolver/c4_hm_02_contentresolver.iml" />
       <module fileurl="file://$PROJECT_DIR$/c4_hm_03_sms/c4_hm_03_sms.iml" filepath="$PROJECT_DIR$/c4_hm_03_sms/c4_hm_03_sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_hm_04_phone_contacts/c4_hm_04_phone_contacts.iml" filepath="$PROJECT_DIR$/c4_hm_04_phone_contacts/c4_hm_04_phone_contacts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c4_hm_phone_contacts2/c4_hm_phone_contacts2.iml" filepath="$PROJECT_DIR$/c4_hm_phone_contacts2/c4_hm_phone_contacts2.iml" />
     </modules>
   </component>
 </project>
