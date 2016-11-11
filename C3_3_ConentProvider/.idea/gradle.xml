@@ -3,8 +3,9 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="G:\2016软件包\Allpackages\Software\Android\2.0\android-studio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -18,19 +19,7 @@
             <option value="$PROJECT_DIR$/c4_hm_phone_contacts2" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/c3_01_contacts" />
-            <option value="$PROJECT_DIR$/c3_02_mycontentprovider" />
-            <option value="$PROJECT_DIR$/c4_hm_01_contentprovider" />
-            <option value="$PROJECT_DIR$/c4_hm_02_contentresolver" />
-            <option value="$PROJECT_DIR$/c4_hm_03_sms" />
-            <option value="$PROJECT_DIR$/c4_hm_04_phone_contacts" />
-            <option value="$PROJECT_DIR$/c4_hm_phone_contacts2" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
