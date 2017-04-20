@@ -10,6 +10,9 @@ import java.util.List;
 
 /**
  * Created by vero on 2015/11/26.
+ *
+ * 本应用作为server-提供者provider
+ *
  */
 public class MyContentProvider extends ContentProvider {
     private final static int USER_DIR=1;

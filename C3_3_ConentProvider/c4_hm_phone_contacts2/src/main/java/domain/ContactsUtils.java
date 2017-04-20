@@ -14,7 +14,9 @@ import java.util.List;
 public class ContactsUtils {
     public static List<ContactInfo> displayContaxts(Context context){
         List<ContactInfo> list=new ArrayList<>();
+        //联系人表
         Uri contact_uri=Uri.parse("content://com.android.contacts/raw_contacts");
+        //联系人信息表
         Uri data_uri=Uri.parse("content://com.android.contacts/data");
         ContentResolver resolver=context.getContentResolver();
         Cursor contact_cursor=resolver.query(contact_uri,new String[]{"contact_id"},null,null,null);

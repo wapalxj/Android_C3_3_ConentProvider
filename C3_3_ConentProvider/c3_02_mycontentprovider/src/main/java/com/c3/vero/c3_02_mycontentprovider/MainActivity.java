@@ -1,5 +1,6 @@
 package com.c3.vero.c3_02_mycontentprovider;
 
+
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.ContentValues;
